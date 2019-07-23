@@ -1,4 +1,8 @@
+### Running the program
 
+`npm install`
+
+`npm test`
 
 ### Problem
 
